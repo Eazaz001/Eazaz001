@@ -14,7 +14,7 @@
 - 🤝 **Seeking Help with:** Scaling AI models, Federated Learning, and MLOps deployment.
 - 💬 **Ask Me About:** AI, ML, DL applications, optimization, and real-world deployments.
 - 📫 **Contact Me:** eazazdeeplearning@gmail.com
-- 📫 How to reach me **eazazdeeplearning@gmail.com**
+
 
 ---
 <p align="center">
